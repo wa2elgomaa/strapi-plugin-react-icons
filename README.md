@@ -1,5 +1,7 @@
 # Strapi plugin react-icons
 
+This fork is the upgraded version of this plugin based on strapi v5, with some UI changes for the new strapi/design-system package 
+
 A plugin for strapi to select react icons.
 
 ![grafik](https://user-images.githubusercontent.com/34894514/234541590-5146511b-82ad-471f-aaf9-8475c91fc894.png)
