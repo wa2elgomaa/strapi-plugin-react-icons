@@ -1,6 +1,7 @@
-import { useRBAC } from '@strapi/helper-plugin';
+import { useRBAC } from '@strapi/strapi/admin';
 
-const perms = { read: [{ action: 'plugin::react-icons.read', subject: null }] };
+
+const perms = { read: [{ action: 'plugin::icon-picker.read', subject: null }] };
 
 interface IUserPermissions {
   loading: boolean;

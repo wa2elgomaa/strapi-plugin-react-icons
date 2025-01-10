@@ -6,6 +6,7 @@ import { IReactIcon } from '.';
 interface IIconComponent {
   icon: string;
   size?: number;
+  onClick? : ()=> void
 }
 
 const strapiTheme = window.localStorage.STRAPI_THEME;

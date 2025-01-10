@@ -1,10 +1,11 @@
 {
-  "react-icons.label": "react-icon",
-  "react-icons.description": "Select a react-icon",
-  "react-icons.options.advanced.requiredField": "Required field",
-  "react-icons.options.advanced.requiredField.description": "You won't be able to create an entry if this field is empty",
-  "react-icons.iconSelector.noIconsAvailable": "No icons available in this library.",
-  "react-icons.iconSelector.noIconLibrariesAvailable": "No icon libraries available. Please import them on the plugin page.",
-  "react-icons.iconSelector.allIconLibraries": "All icon libraries",
-  "react-icons.iconSelector.search": "Search icons..."
-}
+    "icon-picker.label": "Icon Picker",
+    "icon-picker.description": "Select an icon",
+    "icon-picker.options.advanced.requiredField": "Required field",
+    "icon-picker.options.advanced.requiredField.description": "You won't be able to create an entry if this field is empty",
+    "icon-picker.iconSelector.noIconsAvailable": "No icons available in this library.",
+    "icon-picker.iconSelector.noIconLibrariesAvailable": "No icon libraries available. Please import them on the plugin page.",
+    "icon-picker.iconSelector.allIconLibraries": "All icon libraries",
+    "icon-picker.iconSelector.search": "Search icons..."
+  }
+  
